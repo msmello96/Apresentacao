@@ -12,3 +12,4 @@ estudando para assim que tiver um conhecimento básico, procurar algo nesta áre
 ⚡Pense. Planeje. Organize. Execute.
 
 📫 mello.marcelo1996@gmail.com
+\social[linkedin]{https://www.linkedin.com/in/marcelomello96/}
