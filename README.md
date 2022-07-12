@@ -1,6 +1,6 @@
 ### Eai pessoal ✌️
 
-👨‍💻 Meu nome é Marcelo Mello, atualmente com 25 anos, trabalho em uma empresa de consultoria de infraestrutura e 
+👨‍💻 Meu nome é Marcelo Mello, atualmente com 26 anos, trabalho em uma empresa de consultoria de infraestrutura e 
 gosto bastante de programação! 
 
 🤖 Atualmente estou estudando Python e em sequência vou começar a estudar Banco de Dados (MySQL), para futuramente, começar Django. 
